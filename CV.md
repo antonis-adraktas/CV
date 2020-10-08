@@ -33,3 +33,10 @@ Pspice
     - Optimizing designs of various kicker magnets across the CERN complex
     - Measurements in a HV test cage of prototypes to assess models    
     
+# **Education**
+  - ## Electrical and Computer Engineering
+       School: National Technical University of Athens
+       Period: October 2006 - July 2013
+       
+       - Major in Energy/Electronics
+       - Diploma Grade 7.64 out of 10
