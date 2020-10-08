@@ -48,7 +48,7 @@ Pspice
  # **Skills**  
   - Good knowledge of Mobile communications standars: **LTE**, **NR**
   
- ## Software/Programming  
+ - ## Software/Programming  
  Category | Level
 ------------ | -------------
  BI software: Tableau  | Good
@@ -59,12 +59,12 @@ Pspice
  MS Office   | Very Good
  vRA(creating/managing vms) | Good
  
-## Soft skills
+- ## Soft skills
  - Very strong time organizing skills
  - Great communication skills, working with multidisciplined teams
  - Team coordination, driving results
  
- ## Spoken languages
+ - ## Spoken languages
   Language | Level
 ------------ | -------------
  English | Excellent
