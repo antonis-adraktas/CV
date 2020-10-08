@@ -46,14 +46,8 @@ Pspice
        October 2019 - Present
        
  # **Skills**  
- ## Spoken languages
-  Language | Level
------------- | -------------
- English | Excellent
- German  | Medium
- French  | Basic
- Greek   | Native
- 
+  - Good knowledge of Mobile communications standars: **LTE**, **NR**
+  
  ## Software/Programming  
  Category | Level
 ------------ | -------------
@@ -62,6 +56,21 @@ Pspice
  RF Software: SON Edennet  | Excellent
  RF Software: Actix,Asset  | Basic
  Python, Java   | Basic
+ MS Office   | Very Good
+ vRA(creating/managing vms) | Good
+ 
+## Soft skills
+ - Very strong time organizing skills
+ - Great communication skills, working with multidisciplined teams
+ - Team coordination, driving results
+ 
+ ## Spoken languages
+  Language | Level
+------------ | -------------
+ English | Excellent
+ German  | Medium
+ French  | Basic
+ Greek   | Native
  
 
 
