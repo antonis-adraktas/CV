@@ -35,8 +35,14 @@ Pspice
     
 # **Education**
   - ## Electrical and Computer Engineering
-       School: National Technical University of Athens
-       Period: October 2006 - July 2013
+       School: National Technical University of Athens  
+       October 2006 - July 2013
        
        - Major in Energy/Electronics
        - Diploma Grade 7.64 out of 10
+       
+  - ## M.S in Mobile and Ubiquitous Computing Systems
+       School: Elliniko Anoikto Panepistimio 
+       October 2019 - Present
+       
+   
