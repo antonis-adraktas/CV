@@ -1,5 +1,5 @@
 # **Antonios Adraktas**
-![Image of Antonis](https://www.dropbox.com/preview/Public/photo.png?role=personal)
+![Image of photo](https://www.dropbox.com/preview/Public/photo.png?role=personal)
 -Email: antonis.adraktas@gmail.com
 -Address: Animedontos 2,11363, Athens,Greece
 -Phone: +306979354701
