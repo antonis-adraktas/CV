@@ -6,5 +6,30 @@
 * LinkedIn: https://www.linkedin.com/in/antonios-adraktas/
 
 # **Experience**
-  -## Sr. RF Engineer
-  
+  - ## Sr. RF Engineer in Amdocs, Athens/Greece
+       February 2020-Present
+       
+    - Team member of RF Assurance T-Mobile USA (Edennet SON specialist)   
+    - Coordinating/Performing all tests of custom modules with dev team
+    - Quality assurance tests and approvals of all new Edennet releases for GA process
+    - Creating appropriate data sets with SQL scripts to be used for Dashboards creation
+with Tableau (end to end design)
+    - Performing 5G Dual Connectivity activities
+    
+  - ## RF Engineer in Telecom Technology Services, Inc., Athens/Greece
+       January 2018-January 2020
+       
+    - Team member of RF Assurance T-Mobile USA (Edennet SON specialist)   
+    - Ericsson (ENM) and Nokia (NetAct) OSS troubleshooting
+    - Creating/Editing and monitoring Dashboards with Tableau
+    - Ticketing & Troubleshooting using JIRA platform
+    
+- ## Electrical Engineer in CERN, Geneva/Switzerland
+       January 2018-January 2020
+       
+    - Electromagnetic simulations with 􀁾nite elements software (Opera 2D and 3D)   
+    - Designing electrical models of kicker magnets and Pulse Forming Networks in
+Pspice
+    - Optimizing designs of various kicker magnets across the CERN complex
+    - Measurements in a HV test cage of prototypes to assess models    
+    
