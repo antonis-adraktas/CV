@@ -25,7 +25,7 @@ with Tableau (end to end design)
     - Ticketing & Troubleshooting using JIRA platform
     
 - ## Electrical Engineer in CERN, Geneva/Switzerland
-       September 2014-August 2017
+     September 2014-August 2017
        
     - Electromagnetic simulations with 􀁾nite elements software (Opera 2D and 3D)   
     - Designing electrical models of kicker magnets and Pulse Forming Networks in
