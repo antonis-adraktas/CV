@@ -45,4 +45,12 @@ Pspice
        School: Elliniko Anoikto Panepistimio 
        October 2019 - Present
        
-   
+ # **Skills**
+  - 3 foreign languages  
+  
+    Languages | Level
+ ------------ | -------------
+ English | Excellent
+ German  | Medium
+ French  | Basic
+ Greek   | Native
