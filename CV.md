@@ -45,12 +45,23 @@ Pspice
        School: Elliniko Anoikto Panepistimio 
        October 2019 - Present
        
- # **Skills**
+ # **Skills**  
+ ## Spoken languages
   Language | Level
 ------------ | -------------
  English | Excellent
  German  | Medium
  French  | Basic
  Greek   | Native
+ 
+ ## Software/Programming  
+ Category | Level
+------------ | -------------
+ BI software: Tableau  | Good
+ Databases: MySQL, SQL server | Medium
+ RF Software: SON Edennet  | Excellent
+ RF Software: Actix,Asset  | Basic
+ Python, Java   | Basic
+ 
 
 
