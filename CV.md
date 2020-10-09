@@ -27,7 +27,7 @@ with Tableau (end to end design)
 - ## Electrical Engineer in CERN, Geneva/Switzerland
      September 2014-August 2017
        
-    - Electromagnetic simulations with 􀁾nite elements software (Opera 2D and 3D)   
+    - Electromagnetic simulations with finite elements software (Opera 2D and 3D)   
     - Designing electrical models of kicker magnets and Pulse Forming Networks in
 Pspice
     - Optimizing designs of various kicker magnets across the CERN complex
