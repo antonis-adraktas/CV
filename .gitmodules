@@ -1,0 +1,3 @@
+[submodule "Markdown2Pdf"]
+	path = Markdown2Pdf
+	url = https://github.com/antonis-adraktas/Markdown2Pdf
